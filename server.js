@@ -27,7 +27,7 @@ mongoose
             
             dbName: 'test',
             user: 'Itachi',
-            pass: 'oQ5K1RGzOU4oAYlc',
+            pass: 'K941mPK6JSKfk0uF',
             useNewUrlParser: true,
             useUnifiedTopology: true
 
